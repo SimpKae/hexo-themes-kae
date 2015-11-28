@@ -1,13 +1,13 @@
-![hexo-theme-kae](s://cloud.githubusercontent.com/assets/9530963/11295742/8f3d451a-8fa8-11e5-90d2-397af60a992d.png)
+![hexo-theme-kae](http://i12.tietuku.com/ad8d1df7702a0a53s.png)
 
 ## 安装
 
 ``` bash
-hexo init Blog 
-cd Blog 
+hexo init Blog
+cd Blog
 npm install
 npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync
-git clone https://github.com/pinggod/hexo-theme-apollo.git themes/apollo
+git clone https://github.com/simpkae/hexo-theme-simpkae.git themes/kae
 ```
 
 ## 启用
@@ -21,7 +21,7 @@ theme: kae
 ## 更新
 
 ``` bash
-cd themes/kae 
+cd themes/kae
 git pull
 ```
 
