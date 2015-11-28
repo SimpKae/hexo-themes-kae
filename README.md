@@ -1,4 +1,4 @@
-![hexo-theme-apollo](https://cloud.githubusercontent.com/assets/9530963/11295742/8f3d451a-8fa8-11e5-90d2-397af60a992d.png)
+![hexo-theme-kae](s://cloud.githubusercontent.com/assets/9530963/11295742/8f3d451a-8fa8-11e5-90d2-397af60a992d.png)
 
 ## 安装
 
@@ -12,22 +12,22 @@ git clone https://github.com/pinggod/hexo-theme-apollo.git themes/apollo
 
 ## 启用
 
-修改 `_config.yml` 的 `theme` 配置项为 `apollo`:
+修改 `_config.yml` 的 `theme` 配置项为 `kae`:
 
 ```yaml
-theme: apollo
+theme: kae
 ```
 
 ## 更新
 
 ``` bash
-cd themes/apollo 
+cd themes/kae 
 git pull
 ```
 
 ## 自定义块
 
-Markdown 生成的标签暂时比较简单，所以提供了一些 HTML 标签来标识特殊样式，详见 [custrom-blocks](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc/custom-blocks.md)。
+Markdown 生成的标签暂时比较简单，所以提供了一些 HTML 标签来标识特殊样式，详见 [custrom-blocks](https://github.com/SimpKae/hexo-themes-kae/blob/master/doc/custom-blocks.md)。
 
 ## License
 
