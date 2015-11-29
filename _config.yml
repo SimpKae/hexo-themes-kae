@@ -1,8 +1,8 @@
 menu:
     Home: /
     Weibo: http://weibo.com/simpkae
-    RSS: /atom.xml
-    Github: https://github.com/simpkae
+    Rss: /atom.xml
+    GitHub: https://github.com/simpkae
 
 favicon: /favicon.png
 logo: /favicon.png
