@@ -1,11 +1,11 @@
 menu:
-    Home: /
-    Weibo: http://weibo.com/simpkae
-    Rss: /atom.xml
+    主页: /
+    微博: http://weibo.com/simpkae
+    订阅: /atom.xml
     GitHub: https://github.com/simpkae
 
-favicon: /favicon.png
-logo: /favicon.png
+favicon: /favicon.ico
+logo: /logo_mi.png
 
 # comment
 # e.g disqus: seansun
