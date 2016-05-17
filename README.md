@@ -7,7 +7,7 @@ hexo init Blog
 cd Blog
 npm install
 npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync
-git clone https://github.com/simpkae/hexo-theme-kae.git themes/kae
+git clone https://github.com/simpkae/hexo-themes-kae.git themes/kae
 ```
 
 ## 启用
