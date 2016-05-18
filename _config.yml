@@ -1,8 +1,7 @@
 menu:
-    主页: /
+    主頁: /
     微博: http://weibo.com/simpkae
-    订阅: /atom.xml
-    GitHub: https://github.com/simpkae
+    訂閱: /atom.xml
 
 favicon: /favicon.ico
 logo: /logo.png
