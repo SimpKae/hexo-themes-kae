@@ -53,7 +53,7 @@ table tbody td{padding:5px}
 header{height:60px}
 header .logo-link{float:left}
 header .nav{float:right;left:80px}
-header .logo-link img{height:30px;padding:15px 0;}
+header .logo-link img{height:47px;padding:0 0;}
 header .nav-list-item{display:inline-block;padding:18px  10px}
 header .nav-list-item a{font-size:16px;line-height:1.4;padding:5px 0}
 .home.post-list{margin:2em 0}
