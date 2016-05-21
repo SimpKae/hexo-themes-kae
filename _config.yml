@@ -1,7 +1,7 @@
 menu:
     主頁: /
     微博: http://weibo.com/5936014443/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1
-    訂閱: /atom.xml
+    關於: /about
 
 favicon: /favicon.ico
 logo: /logo.png
