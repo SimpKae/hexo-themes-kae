@@ -62,7 +62,7 @@ header .nav-list-item a{font-size:16px;line-height:1.4;padding:5px 0}
 .home.post-list .read-more{color:#dd5862}
 .post{padding-top:1em}
 .post figure,.post p,.post ul,.post ol{margin:1.2em 0}
-.post-block .post-title{color:#2c3e50}
+.post-block .post-title{color:#2d2d2d}
 .post-block .post-time{color:#7f8c8d;margin:1.2em 0}
 .post-content h2,.post-content h3,.post-content h4,.post-content h5,.post-content h6{position:relative}
 .post-content h2:before,.post-content h3:before,.post-content h4:before,.post-content h5:before,.post-content h6:before{content:"#";color:#dd5862;position:absolute;left:-0.7em;top:-4px;font-size:1.2em;font-weight:bold}
