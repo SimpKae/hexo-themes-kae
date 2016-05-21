@@ -22,6 +22,5 @@ mixin post(item)
         article.post-block
             h2.post-title
                     != item.title
-            +postInfo(item)
             .post-content
                 != item.content
